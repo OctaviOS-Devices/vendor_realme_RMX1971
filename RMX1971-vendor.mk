@@ -33,6 +33,18 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RMX1971/proprietary/vendor/etc/camera/oppo_camera_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/oppo_camera_config.xml \
     vendor/realme/RMX1971/proprietary/vendor/etc/camera/skinSeg.model:$(TARGET_COPY_OUT_VENDOR)/etc/camera/skinSeg.model \
     vendor/realme/RMX1971/proprietary/vendor/etc/camera/vidhance_calibration:$(TARGET_COPY_OUT_VENDOR)/etc/camera/vidhance_calibration \
+    vendor/realme/RMX1971/proprietary/vendor/etc/camera/prebuilt/aecWarmStartCamera_0:$(TARGET_COPY_OUT_VENDOR)/etc/camera/prebuilt/aecWarmStartCamera_0 \
+    vendor/realme/RMX1971/proprietary/vendor/etc/camera/prebuilt/aecWarmStartCamera_1$(TARGET_COPY_OUT_VENDOR)/etc/camera/prebuilt/aecWarmStartCamera_1 \
+    vendor/realme/RMX1971/proprietary/vendor/etc/camera/prebuilt/af_calibration_imx586_gt24c64_sunny.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/prebuilt/af_calibration_imx586_gt24c64_sunny.bin \
+    vendor/realme/RMX1971/proprietary/vendor/etc/camera/prebuilt/awbWarmStartCamera_0:$(TARGET_COPY_OUT_VENDOR)/etc/camera/prebuilt/awbWarmStartCamera_0 \
+    vendor/realme/RMX1971/proprietary/vendor/etc/camera/prebuilt/awbWarmStartCamera_1:$(TARGET_COPY_OUT_VENDOR)/etc/camera/prebuilt/awbWarmStartCamera_1 \
+    vendor/realme/RMX1971/proprietary/vendor/etc/camera/prebuilt/mapx.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/prebuilt/mapx.bin \
+    vendor/realme/RMX1971/proprietary/vendor/etc/camera/prebuilt/mapy.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/prebuilt/mapy.bin \
+    vendor/realme/RMX1971/proprietary/vendor/etc/camera/prebuilt/pdaf2D_calibration_imx586_gt24c64_sunny.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/prebuilt/pdaf2D_calibration_imx586_gt24c64_sunny.bin \
+    vendor/realme/RMX1971/proprietary/vendor/etc/camera/prebuilt/pdafdcc_calibration_imx586_gt24c64_sunny.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/prebuilt/pdafdcc_calibration_imx586_gt24c64_sunny.bin \
+    vendor/realme/RMX1971/proprietary/vendor/etc/camera/prebuilt/sony_imx471_cross_talk.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/prebuilt/sony_imx471_cross_talk.bin \
+    vendor/realme/RMX1971/proprietary/vendor/etc/camera/prebuilt/sony_imx471_dpc_tbl.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/prebuilt/sony_imx471_dpc_tbl.bin \
+    vendor/realme/RMX1971/proprietary/vendor/etc/camera/prebuilt/spc_calibration_imx586_gt24c64_sunny.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/prebuilt/spc_calibration_imx586_gt24c64_sunny.bin \
     vendor/realme/RMX1971/proprietary/vendor/etc/init/vendor.oppo.hardware.biometrics.fingerprint@2.1-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.oppo.hardware.biometrics.fingerprint@2.1-service.rc \
     vendor/realme/RMX1971/proprietary/vendor/etc/init/vendor.oppo.hardware.camera.oppoAlgoProcessService@1.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.oppo.hardware.camera.oppoAlgoProcessService@1.0-service.rc \
     vendor/realme/RMX1971/proprietary/vendor/etc/license.lic:$(TARGET_COPY_OUT_VENDOR)/etc/license.lic \
